@@ -1,3 +1,9 @@
 this is a TODO list
 
+<<<<<<< HEAD
 quite so, my dear boy
+=======
+no it isn't
+
+hello!
+>>>>>>> TODO-fuckery
