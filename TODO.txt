@@ -1,7 +1,3 @@
 this is a TODO list
 
-<<<<<<< HEAD
 quite so, my dear boy
-=======
-no it isn't
->>>>>>> TODO-fuckery
